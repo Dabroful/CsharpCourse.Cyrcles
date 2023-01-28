@@ -1,0 +1,7 @@
+D:\Разработка\C#\CsharpCourse\bin\Debug\CsharpCourse.exe
+D:\Разработка\C#\CsharpCourse\bin\Debug\CsharpCourse.pdb
+D:\Разработка\C#\CsharpCourse\obj\Debug\CsharpCourse.csproj.AssemblyReference.cache
+D:\Разработка\C#\CsharpCourse\obj\Debug\CsharpCourse.csproj.SuggestedBindingRedirects.cache
+D:\Разработка\C#\CsharpCourse\obj\Debug\CsharpCourse.csproj.CoreCompileInputs.cache
+D:\Разработка\C#\CsharpCourse\obj\Debug\CsharpCourse.exe
+D:\Разработка\C#\CsharpCourse\obj\Debug\CsharpCourse.pdb
